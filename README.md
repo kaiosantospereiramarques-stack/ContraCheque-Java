@@ -1,2 +1,2 @@
 # ContraCheque-Java
-Cálculo Salário Líquido com INNS e IRRF
+Cálculo Salário Líquido com INSS e IRRF
